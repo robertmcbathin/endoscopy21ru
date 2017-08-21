@@ -11,7 +11,7 @@
 @section('content')
     <div class="wrapper">
         <div class="page-header">
-            <div class="page-header-image" data-parallax="true" style="background-image: ;">
+            <div class="page-header-image" data-parallax="true" style="background-image: url(/assets/img/ligator-bg.jpg) ;">
             </div>
         </div>
         <div class="section">
