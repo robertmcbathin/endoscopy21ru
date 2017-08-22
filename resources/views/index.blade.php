@@ -10,11 +10,10 @@
 @endsection
 @section('content')
     <div class="wrapper">
-        <div class="page-header">
-            <div class="page-header-image" data-parallax="true" style="background-image: url(/assets/img/ligator-bg.jpg) ;">
+        <div class="page-header page-header-small header-filter">
+            <div class="page-header-image" data-parallax="true" style="background-image: url(/assets/img/ligator-bgg.jpg) ;">
             </div>
-        </div>
-            <div class="container">
+                        <div class="container">
                       <div class="row justify-content-left slider-center">
             <div class="col-6">
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -53,6 +52,7 @@
             </div>
         </div>  
             </div>
+        </div>
     </div>
     <div class="section">
     </div>
