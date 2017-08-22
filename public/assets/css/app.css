@@ -3,6 +3,12 @@
     background-color: rgb(84,177,89);
 }
 a,p,h1-h6{
-	font-family: 'Ubuntu Condensed', sans-serif;
+	font-family: Montserrat, sans-serif;
 	weight: 600;
+}
+.slider-center{
+	padding-top: 12%;
+}
+.page-header:before {
+    background-color: rgba(1, 37, 12, 0.5);
 }
