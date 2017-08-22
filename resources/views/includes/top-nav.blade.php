@@ -1,5 +1,6 @@
     <!-- Navbar -->
-    <nav class="navbar navbar-toggleable-md navbar-transparent bg-m55 fixed-top " color-on-scroll="500">
+    <nav class="navbar navbar-toggleable-md bg-m55 fixed-top navbar-transparent" color-on-scroll="500">
+
         <div class="container">
             <div class="navbar-translate">
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">

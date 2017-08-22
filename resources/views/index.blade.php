@@ -9,9 +9,10 @@
 Эндоскопический центр
 @endsection
 @section('content')
-<div class="wrapper">
-    <div class="page-header page-header-small header-filter">
-        <div class="page-header-image" data-parallax="true" style="background-image: url('assets/img/ligator-bg.jpg');">
+    <div class="wrapper">
+        <div class="page-header">
+            <div class="page-header-image" data-parallax="true" style="background-image: url(/assets/img/ligator-bg.jpg) ;">
+            </div>
         </div>
             <div class="container">
                       <div class="row justify-content-left slider-center">

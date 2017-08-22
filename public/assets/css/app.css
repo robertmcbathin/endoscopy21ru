@@ -6,9 +6,17 @@ a,p,h1-h6{
 	font-family: Montserrat, sans-serif;
 	weight: 600;
 }
+
 .slider-center{
 	padding-top: 12%;
 }
 .page-header:before {
     background-color: rgba(1, 37, 12, 0.5);
+}
+.navbar .navbar-nav .nav-link {
+    font-size: 1em;
+}
+.navbar .navbar-brand {
+    font-size: 1.2em;
+
 }
