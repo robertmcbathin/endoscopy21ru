@@ -15,17 +15,17 @@
             <div class="collapse navbar-collapse justify-content-end" id="navigation" data-nav-image="../assets/img/blurred-image-1.jpg">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#pablo">
+                        <a class="nav-link" href="/">
                             <p>Главная</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#pablo">
+                        <a class="nav-link" href="{{ route('site.about.get') }}">
                             <p>О поликлинике</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#pablo">
+                        <a class="nav-link" href="{{ route('site.pricelist.get') }}">
                             <p>Услуги и цены</p>
                         </a>
                     </li>

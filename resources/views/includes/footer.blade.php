@@ -2,77 +2,87 @@
                     <div class="container">
                         <div class="content">
                             <div class="row">
-                                <div class="col-md-2 offset-md-1">
-                                    <h5>Legal</h5>
+                                <div class="col-md-2 offset-md-2">
+                                    <h5>Поликлиника</h5>
                                     <ul class="links-vertical">
                                         <li>
                                             <a href="#pablo">
-                                                Transactions FAQ
+                                                О медицинском центре
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#pablo">
-                                                Terms &amp; Conditions
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#pablo">
-                                                Licenses
+                                                Направления деятельности
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col-md-2">
-                                    <h5>Legal</h5>
+                                    <h5>Услуги и цены</h5>
                                     <ul class="links-vertical">
                                         <li>
                                             <a href="#pablo">
-                                                Transactions FAQ
+                                                Прайс-лист
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#pablo">
-                                                Terms &amp; Conditions
+                                                ФГДС
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#pablo">
-                                                Licenses
+                                                ФКС
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#pablo">
+                                                Проктология
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#pablo">
+                                                Гастроэнтеролог
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#pablo">
+                                                УЗИ
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#pablo">
+                                                Тест Helicobacter
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col-md-2">
-                                    <h5>About</h5>
+                                    <h5>Подготовка к процедурам</h5>
                                     <ul class="links-vertical">
                                         <li>
                                             <a href="#pablo">
-                                                Blog
+                                                ФГДС
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#pablo">
-                                                About Us
+                                                ФКС
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#pablo">
-                                                Presentation
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#pablo">
-                                                Contact Us
+                                                Проктология
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col-md-2">
-                                    <h5>Market</h5>
+                                    <h5>Важно знать</h5>
                                     <ul class="links-vertical">
                                         <li>
                                             <a href="#pablo">
-                                                Sales FAQ
+                                                Программа государственных гарантий
                                             </a>
                                         </li>
                                         <li>
@@ -93,26 +103,6 @@
                                         <li>
                                             <a href="#pablo">
                                                 Transactions Issues
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="col-md-2">
-                                    <h5>Legal</h5>
-                                    <ul class="links-vertical">
-                                        <li>
-                                            <a href="#pablo">
-                                                Transactions FAQ
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#pablo">
-                                                Terms &amp; Conditions
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#pablo">
-                                                Licenses
                                             </a>
                                         </li>
                                     </ul>

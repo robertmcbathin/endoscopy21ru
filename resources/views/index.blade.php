@@ -24,21 +24,21 @@
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="carousel-item active">
-                            <img class="d-block" src="assets/img/bg1.jpg" alt="First slide">
+                            <img class="d-block" src="assets/img/slider/1.jpg" alt="Обследование пищевода, желудка, кишечника. Выявление раннего рака. Проктология. Узи">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Nature, United States</h5>
+                                <h5 class="black-text">Обследование пищевода, желудка, кишечника. Выявление раннего рака. Проктология. Узи</h5>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="assets/img/bg3.jpg" alt="Second slide">
+                            <img class="d-block" src="assets/img/slider/2.jpg" alt="Second slide">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Somewhere Beyond, United States</h5>
+                                <h5>Трансназальная ФГДС</h5>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block" src="assets/img/bg4.jpg" alt="Third slide">
+                            <img class="d-block" src="assets/img/slider/3.jpg" alt="Third slide">
                             <div class="carousel-caption d-none d-md-block">
-                                <h5>Yellowstone National Park, United States</h5>
+                                <h5 class="black-text">Лигирование геморроидальных узлов латексными кольцами позволяет избежать сложной операции в условиях стационара примерно около 80% больных геморроем</h5>
                             </div>
                         </div>
                     </div>

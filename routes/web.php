@@ -15,12 +15,12 @@ Route::group(['middleware' => 'web'], function () {
 	Route::get('/', function () {
     	return view('index');
 		});
-	Route::get('category/{id}',[
-		'uses' => 'SiteController@showCategory',
-		'as' => 'site.show-category.get'
+	Route::get('about',[
+		'uses' => 'SiteController@showAboutPage',
+		'as' => 'site.about.get'
 		]);
-	Route::get('categories',[
-		'uses' => 'SiteController@showCategories',
-		'as' => 'site.show-categories.get'
+	Route::get('pricelist',[
+		'uses' => 'SiteController@showPricelistPage',
+		'as' => 'site.pricelist.get'
 		]);
 });
