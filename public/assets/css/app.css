@@ -20,3 +20,9 @@ a,p,h1-h6{
     font-size: 1.2em;
 
 }
+.contacts-block{
+	height: 400px;
+}
+.contacts-block::after{
+	background-color: rgba(0,0,0,0);
+}
